@@ -1,0 +1,162 @@
+﻿Name,Emp ID,Gender,Education Qualification,Date of Join,Job Title,Salary,Age,Leave Balance
+Barr Faughny,1,Male,Bachelor's Degree,12-Jun-20,Data Analyst,"$51,300 ",26,13
+Dennison Crosswaite,2,Female,Diploma,18-Feb-21,Product Owner,"$38,300 ",32.7,12
+Gunar Cockshoot,3,Male,High School Diploma,5-Sep-22,CRM Developer,"$31,400 ",34.3,16
+Wilone O'Kielt,4,Female,Bachelor's Degree,20-Nov-19,UI/UX Designer/Engineer,"$60,700 ",29.6,21
+Gigi Bohling,5,Male,Master's Degree,8-Apr-18,Data Engineer,"$77,300 ",30.3,23
+Curtice Advani,6,Female,Bachelor's Degree,14-Mar-23,Full-stack Engineer,"$49,800 ",37.7,23
+Kaine Padly,7,Male,High School Diploma,2-Jan-22,Product Owner,"$33,000 ",31.8,24
+Ches Bonnell,8,Female,Diploma,19-Jul-20,Frontend Engineer,"$41,900 ",35.9,17
+Andria Kimpton,9,Male,Bachelor's Degree,10-Nov-21,Backend Engineer,"$58,100 ",31,16
+Brien Boise,10,Female,Master's Degree,25-Jun-19,Product Manager,"$82,900 ",31.1,17
+Husein Augar,11,Male,High School Diploma,4-Aug-22,CRM Developer,"$28,900 ",30.3,16
+Karlen McCaffrey,12,Female,Diploma,17-Feb-20,Product Owner,"$37,300 ",35,11
+Jan Morforth,13,Male,Bachelor's Degree,30-Oct-21,Data Analyst,"$52,700 ",28.5,25
+Dotty Strutley,14,Female,Master's Degree,12-Sep-18,Scrum Master,"$74,700 ",52.4,10
+Kelci Walkden,15,Male,Bachelor's Degree,5-Mar-19,Backend Engineer,"$55,600 ",35.4,12
+Marney O'Breen,16,Female,High School Diploma,21-May-22,CRM Developer,"$32,900 ",29.8,17
+Rafaelita Blaksland,17,Female,Diploma,8-Aug-21,Frontend Engineer,"$41,500 ",32.3,17
+Madelene Upcott,18,Male,Bachelor's Degree,23-Nov-20,Full-stack Engineer,"$49,400 ",31.1,20
+Beverie Moffet,19,Female,Master's Degree,15-Jul-17,Product Manager,"$82,700 ",33.5,23
+Oby Sorrel,20,Male,High School Diploma,30-Mar-22,Product Owner,"$38,200 ",31.1,16
+Mallorie Waber,21,Female,Diploma,4-Sep-19,CRM Developer,"$32,600 ",31.5,16
+Jehu Rudeforth,22,Male,Bachelor's Degree,19-Jun-18,Data Engineer,"$76,800 ",32.7,22
+Van Tuxwell,23,Female,Master's Degree,7-Jan-21,UI/UX Designer/Engineer,"$62,300 ",33.8,23
+Roddy Speechley,24,Male,Bachelor's Degree,25-Aug-20,Full-stack Engineer,"$46,200 ",30.1,19
+Camilla Castle,25,Female,High School Diploma,12-Feb-23,CRM Developer,"$32,500 ",63.7,12
+Janene Hairsine,26,Male,Diploma,1-Nov-22,Frontend Engineer,"$43,100 ",33.8,16
+Niall Selesnick,27,Female,Bachelor's Degree,16-Apr-19,Backend Engineer,"$60,000 ",28.8,18
+Ebonee Roxburgh,28,Male,Master's Degree,9-Oct-18,Product Manager,"$82,100 ",32.7,14
+Zach Polon,29,Female,High School Diploma,26-May-23,Product Owner,"$35,900 ",29.9,15
+Orton Livick,30,Male,Diploma,13-Jan-20,CRM Developer,"$31,100 ",27,20
+Gray Seamon,31,Female,Bachelor's Degree,27-Jul-18,Scrum Master,"$74,200 ",30.6,27
+Benny Karolovsky,32,Male,Master's Degree,14-Mar-19,Backend Engineer,"$57,100 ",28.7,13
+Dyna Doucette,33,Female,High School Diploma,28-Sep-22,CRM Developer,"$35,200 ",33.7,21
+Erin Androsik,34,Male,Diploma,11-Apr-21,Frontend Engineer,"$42,800 ",31.2,18
+Madge McCloughen,35,Female,Bachelor's Degree,26-Jan-20,Full-stack Engineer,"$46,900 ",34.9,16
+Esmaria Denecamp,36,Male,Master's Degree,3-Aug-17,Product Manager,"$80,700 ",26.1,13
+Hogan Iles,37,Female,High School Diploma,19-Mar-23,Product Owner,"$36,500 ",23.5,17
+Valentia Etteridge,38,Male,Diploma,15-Oct-22,CRM Developer,"$31,900 ",29.6,25
+Archibald Filliskirk,39,Female,Bachelor's Degree,10-Jun-19,Data Analyst,"$52,700 ",32.2,16
+Lindy Guillet,40,Male,Master's Degree,3-May-18,UI/UX Designer/Engineer,"$61,400 ",37.8,15
+Dell Molloy,41,Female,High School Diploma,29-Sep-21,Data Engineer,"$79,300 ",34.9,18
+Ewart Laphorn,42,Male,Diploma,14-Feb-20,Full-stack Engineer,"$49,000 ",35.3,13
+Vic Radolf,43,Female,Bachelor's Degree,1-Jan-23,Frontend Engineer,"$44,800 ",30,17
+Virginia McConville,44,Male,High School Diploma,25-Nov-22,CRM Developer,"$29,700 ",32.3,15
+Kaye Crocroft,45,Female,Diploma,9-Apr-20,Product Owner,"$39,700 ",30,18
+Mollie Hanway,46,Male,Bachelor's Degree,31-Oct-21,Data Analyst,"$52,500 ",55.9,16
+Hoyt D'Alesco,47,Female,Master's Degree,14-Aug-18,Scrum Master,"$73,500 ",62.6,23
+Crissie Cordel,48,Female,Bachelor's Degree,27-Mar-19,Backend Engineer,"$57,800 ",34.2,14
+Myer McCory,49,Male,High School Diploma,12-Jul-22,CRM Developer,"$34,900 ",30.2,19
+Enoch Dowrey,50,Female,Diploma,25-Apr-21,Frontend Engineer,"$44,400 ",31.5,18
+Kissiah Maydway,51,Female,Bachelor's Degree,8-Sep-20,Full-stack Engineer,"$46,000 ",53.5,15
+Ambros Murthwaite,52,Female,Master's Degree,23-Apr-17,Product Manager,"$84,800 ",34.4,18
+Torrance Collier,53,Male,High School Diploma,14-Feb-23,Product Owner,"$39,300 ",37.9,16
+Allene Gobbet,54,Male,Diploma,31-Dec-22,CRM Developer,"$29,000 ",30.4,30
+Violante Courtonne,55,Female,Bachelor's Degree,15-Jun-19,Data Analyst,"$53,900 ",32.5,23
+Merrilee Plenty,56,Male,Master's Degree,28-Oct-18,UI/UX Designer/Engineer,"$63,600 ",35,10
+Tatum Hush,57,Female,High School Diploma,13-Dec-21,Data Engineer,"$77,000 ",36.3,17
+Kath Bletsoe,58,Male,Bachelor's Degree,26-Jul-20,Full-stack Engineer,"$49,700 ",30.9,19
+Hinda Label,59,Female,Diploma,22-Jun-23,Frontend Engineer,"$43,000 ",33.6,4
+Shari McNee,60,Female,Bachelor's Degree,14-Sep-19,CRM Developer,"$36,200 ",36,19
+My Hanscome,61,Male,Master's Degree,6-Apr-18,Scrum Master,"$70,800 ",36.8,18
+Drusy MacCombe,62,Male,High School Diploma,19-Jan-20,Backend Engineer,"$55,700 ",31.6,22
+Halimeda Kuscha,63,Female,Diploma,4-Jul-22,Product Manager,"$83,600 ",33.1,18
+William Reeveley,64,Male,Bachelor's Degree,17-Aug-21,Product Owner,"$39,800 ",31.3,15
+Tracy Renad,65,Female,Master's Degree,10-Dec-18,Data Analyst,"$51,400 ",33.9,8
+Kassi Jonson,66,Male,High School Diploma,23-Sep-19,UI/UX Designer/Engineer,"$63,100 ",30.2,21
+Constantino Espley,67,Female,Bachelor's Degree,15-Feb-22,Data Engineer,"$76,300 ",65.4,16
+Mollie Hanway,68,Female,Diploma,29-Jun-21,Full-stack Engineer,"$47,800 ",27.7,19
+Gretchen Callow,69,Male,Bachelor's Degree,22-Mar-20,Frontend Engineer,"$41,500 ",33.4,13
+Bev Lashley,70,Female,High School Diploma,12-Jan-23,CRM Developer,"$33,600 ",46,16
+Sibyl Dunkirk,71,Male,Diploma,5-Jun-19,Product Owner,"$37,000 ",33,17
+Trio Lipa,72,Female,Bachelor's Degree,28-Sep-18,Backend Engineer,"$56,700 ",35,14
+Shayne Stegel,73,Male,Master's Degree,11-Apr-17,Product Manager,"$84,700 ",34.8,20
+Hyacinthie Braybrooke,74,Female,High School Diploma,26-Feb-23,Data Analyst,"$51,300 ",36.3,14
+Agnes Collicott,75,Female,Diploma,15-Jul-20,Scrum Master,"$74,800 ",31.2,20
+Teressa Udden,76,Male,Bachelor's Degree,28-Oct-19,Data Engineer,"$78,400 ",31,22
+Bennie Pepis,77,Female,High School Diploma,13-Apr-22,Full-stack Engineer,"$48,300 ",27.7,20
+Elia Cockton,78,Female,Diploma,28-May-21,Frontend Engineer,"$42,100 ",35.9,16
+A R Rahadude,79,Female,Bachelor's Degree,21-Jun-20,CRM Developer,"$36,000 ",31.6,17
+Murry Dryburgh,80,Male,Master's Degree,4-Sep-18,Product Owner,"$37,700 ",34.8,20
+Mahalia Larcher,81,Female,High School Diploma,20-Aug-19,Backend Engineer,"$56,900 ",30.5,12
+Bili Sizey,82,Female,Diploma,9-Mar-22,Product Manager,"$81,600 ",61.7,6
+Lilyan Klimpt,83,Male,Bachelor's Degree,22-Dec-21,Data Analyst,"$51,200 ",42.6,22
+Almond Joy,84,Female,Master's Degree,15-Jul-19,UI/UX Designer/Engineer,"$61,400 ",31,15
+Leilah Yesinin,85,Male,High School Diploma,27-Apr-23,Data Engineer,"$76,700 ",31.4,16
+Collin Jagson,86,Female,Diploma,10-May-20,Full-stack Engineer,"$49,800 ",50.3,15
+Kellsie Waby,87,Male,Bachelor's Degree,3-Feb-21,Frontend Engineer,"$43,000 ",60.8,24
+Simon Kembery,88,Female,High School Diploma,19-May-22,CRM Developer,"$36,200 ",39.8,14
+Tawnya Tickel,89,Male,Diploma,14-Aug-19,Product Owner,"$36,400 ",38.3,20
+Bernie Gorges,90,Female,Bachelor's Degree,27-Nov-18,Data Analyst,"$54,900 ",31.6,17
+Florinda Crace,91,Male,Master's Degree,10-Jun-17,Scrum Master,"$74,200 ",30.7,17
+Oran Buxcy,92,Male,High School Diploma,19-Mar-23,Backend Engineer,"$58,700 ",47.3,6
+Anvi Verma,93,Female,Diploma,2-Sep-20,Product Manager,"$81,100 ",34.6,16
+Zara Mishra,94,Female,Bachelor's Degree,17-Jul-19,Product Owner,"$38,300 ",33.7,14
+Dev Joshi,95,Male,Master's Degree,10-Dec-18,Data Analyst,"$51,100 ",36.2,15
+Pari Sharma,96,Female,High School Diploma,4-May-23,UI/UX Designer/Engineer,"$63,500 ",28.5,20
+Aanya Kapoor,97,Female,Bachelor's Degree,28-Oct-21,Data Engineer,"$78,900 ",30.3,17
+Kiara Choudhary,98,Female,Diploma,12-Feb-20,Full-stack Engineer,"$46,000 ",38,21
+Reyansh Iyer,99,Male,Bachelor's Degree,27-May-19,Frontend Engineer,"$44,400 ",35.1,16
+Samaira Agarwal,100,Female,High School Diploma,12-Dec-22,CRM Developer,"$36,200 ",39.5,24
+Avani Malhotra,101,Female,Diploma,26-Apr-21,Product Owner,"$38,800 ",31.9,20
+Kiaan Rana,102,Male,Bachelor's Degree,9-Sep-18,Backend Engineer,"$57,800 ",36.6,15
+Aarav Shah,103,Male,Master's Degree,31-Oct-17,Product Manager,"$82,800 ",51.8,20
+Anaya Gupta,104,Female,High School Diploma,15-Jan-23,Data Analyst,"$53,900 ",35.6,15
+Munch Munch,105,Male,Diploma,28-Jun-20,Scrum Master,"$73,900 ",30.1,12
+Siya Trivedi,106,Female,Bachelor's Degree,11-Sep-19,Data Engineer,"$76,100 ",28,16
+Kabir Kapoor,107,Male,High School Diploma,4-Mar-22,Full-stack Engineer,"$45,500 ",29.3,14
+Rhea Saxena,108,Female,Diploma,17-Jun-21,Frontend Engineer,"$44,600 ",36.8,10
+Advait Sharma,109,Male,Bachelor's Degree,30-Nov-18,CRM Developer,"$36,100 ",27.2,8
+Aarush Mishra,110,Male,Master's Degree,23-Jul-17,Product Owner,"$35,500 ",29.6,24
+Anika Chawla,111,Female,High School Diploma,11-May-23,Backend Engineer,"$58,000 ",33,13
+Zara Verma,112,Female,Diploma,24-Oct-20,Product Manager,"$81,400 ",35.2,19
+Dev Agarwal,113,Male,Bachelor's Degree,15-Apr-19,Data Analyst,"$51,000 ",34.8,22
+Pari Kumar,114,Female,Master's Degree,8-Sep-18,UI/UX Designer/Engineer,"$61,600 ",31.4,15
+Aanya Singh,115,Female,High School Diploma,29-Nov-21,Data Engineer,"$77,100 ",31.7,9
+Kiara Joshi,116,Female,Diploma,13-Jul-20,Full-stack Engineer,"$47,900 ",31.7,9
+Reyansh Malhotra,117,Male,Bachelor's Degree,28-Mar-19,Frontend Engineer,"$43,000 ",28.2,17
+M&M Peanut,118,Female,High School Diploma,12-Aug-22,CRM Developer,"$35,100 ",35.7,21
+Avani Agarwal,119,Female,Diploma,25-May-21,Product Owner,"$39,700 ",31.1,16
+Nestle Crunch,120,Male,Bachelor's Degree,18-Oct-18,Backend Engineer,"$59,200 ",30.9,18
+Aarav Verma,121,Male,Master's Degree,11-May-17,Product Manager,"$85,000 ",65.1,5
+Anaya Choudhary,122,Female,High School Diploma,26-Jan-23,Data Analyst,"$52,700 ",29.5,10
+Krish Trivedi,123,Male,Diploma,9-Jul-20,Scrum Master,"$74,900 ",33.8,11
+Siya Rawat,124,Female,Bachelor's Degree,1-Oct-19,Data Engineer,"$77,500 ",30.3,14
+Kabir Shah,125,Male,High School Diploma,14-Feb-22,Full-stack Engineer,"$45,900 ",37.4,16
+Rhea Bhatia,126,Female,Diploma,29-Jul-21,Frontend Engineer,"$45,000 ",36.3,2
+Advait Kumar,127,Male,Bachelor's Degree,21-Nov-18,CRM Developer,"$33,100 ",34.3,9
+Aarush Verma,128,Male,Master's Degree,14-Jun-17,Product Owner,"$37,600 ",37.9,18
+Anika Singh,129,Female,High School Diploma,7-Jan-23,Backend Engineer,"$58,300 ",29.4,16
+Zara Chawla,130,Female,Diploma,30-Jul-20,Product Manager,"$83,900 ",31.4,14
+Dev Joshi,131,Male,Bachelor's Degree,23-Dec-19,Data Analyst,"$51,100 ",33.7,16
+Pari Gupta,132,Female,Master's Degree,16-Sep-18,UI/UX Designer/Engineer,"$62,900 ",36.8,15
+Aanya Trivedi,133,Female,High School Diploma,7-Feb-22,Data Engineer,"$79,200 ",31.4,14
+Kiara Bhatia,134,Female,Diploma,22-Jun-21,Full-stack Engineer,"$47,000 ",32.3,22
+Reyansh Rana,135,Male,Bachelor's Degree,15-Sep-20,Frontend Engineer,"$42,400 ",66.2,19
+Lindt Truffle,136,Female,High School Diploma,28-Nov-19,CRM Developer,"$33,800 ",66.7,8
+Avani Iyer,137,Female,Diploma,12-Jan-23,Product Owner,"$36,000 ",31,18
+Kiaan Shah,138,Male,Bachelor's Degree,5-May-21,Backend Engineer,"$58,500 ",31.3,23
+Oreo Delight,139,Male,Master's Degree,28-Sep-18,Product Manager,"$83,200 ",31.6,9
+Anaya Agarwal,140,Female,High School Diploma,11-May-22,Data Analyst,"$51,100 ",32.5,10
+Krish Rawat,141,Male,Diploma,24-Sep-21,Scrum Master,"$73,200 ",30.6,12
+Siya Sharma,142,Female,Bachelor's Degree,17-Dec-20,Data Engineer,"$77,800 ",28.9,6
+Kabir Trivedi,143,Male,High School Diploma,8-Feb-23,Full-stack Engineer,"$45,500 ",36.1,20
+Rhea Malhotra,144,Female,Diploma,24-Jul-21,Frontend Engineer,"$41,800 ",31.1,18
+Advait Kapoor,145,Male,Bachelor's Degree,17-Nov-19,CRM Developer,"$32,600 ",28.6,37
+Zagnut Nut,146,Male,Master's Degree,10-Oct-18,Product Owner,"$37,600 ",30.8,9
+Anika Joshi,147,Female,High School Diploma,3-Feb-20,Backend Engineer,"$59,500 ",61.1,18
+Zara Verma,148,Female,Diploma,27-Jul-19,Product Manager,"$82,400 ",33.8,14
+Dev Chawla,149,Male,Bachelor's Degree,20-Nov-21,Data Analyst,"$51,300 ",32.7,23
+Pari Gupta,150,Female,Master's Degree,13-May-20,UI/UX Designer/Engineer,"$61,200 ",44.1,14
+Aanya Singh,151,Female,High School Diploma,6-Aug-19,Data Engineer,"$78,200 ",27.6,21
+Kiara Bhatia,152,Female,Diploma,1-Mar-23,Full-stack Engineer,"$48,100 ",37.2,16
+Reyansh Rana,153,Male,Bachelor's Degree,25-May-21,Frontend Engineer,"$44,000 ",30.9,15
+Eltin John,154,Female,High School Diploma,17-Sep-20,CRM Developer,"$36,000 ",26,15
+Avani Iyer,155,Female,Diploma,10-Dec-19,Product Owner,"$37,400 ",46.2,20
+Kiaan Shah,156,Male,Bachelor's Degree,3-Nov-18,Backend Engineer,"$57,100 ",33.9,16
+Michael Walkson,157,Male,Master's Degree,26-Nov-17,Product Manager,"$82,300 ",34.4,18
+Anaya Agarwal,158,Female,High School Diploma,9-Apr-23,Data Analyst,"$52,900 ",30.5,8
+Krish Rawat,159,Male,Diploma,2-Jun-20,Scrum Master,"$71,100 ",31.6,13
+Siya Sharma,160,Female,Bachelor's Degree,26-Aug-19,Data Engineer,"$76,900 ",33.2,17
+Kabir Trivedi,161,Male,High School Diploma,19-Mar-22,Full-stack Engineer,"$46,400 ",37.1,11
