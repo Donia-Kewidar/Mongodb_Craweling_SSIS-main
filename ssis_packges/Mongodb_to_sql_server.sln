@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.35706.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Mongodb_to_sql_server", "Mongodb_to_sql_server\Mongodb_to_sql_server.dtproj", "{1B5125BD-9869-4E16-84C6-8E18D1361067}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B5125BD-9869-4E16-84C6-8E18D1361067}.Development|Default.ActiveCfg = Development
+		{1B5125BD-9869-4E16-84C6-8E18D1361067}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCEFD5CD-8C7E-49A7-AB2F-57F2DE6094F3}
+	EndGlobalSection
+EndGlobal
